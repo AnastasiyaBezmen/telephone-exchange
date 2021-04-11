@@ -1,0 +1,1 @@
+CREATE DATABASE telephoneexchange DEFAULT CHARACTER SET utf8;
